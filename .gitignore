@@ -1,0 +1,23 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/
+
+## Logs
+*.log
+
+## Secrets
+appsettings.*.json
+*.pfx
+
+## Others
+.DS_Store
